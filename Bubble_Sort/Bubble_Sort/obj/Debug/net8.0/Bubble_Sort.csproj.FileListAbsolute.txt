@@ -1,0 +1,14 @@
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\bin\Debug\net8.0\Bubble_Sort.exe
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\bin\Debug\net8.0\Bubble_Sort.deps.json
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\bin\Debug\net8.0\Bubble_Sort.runtimeconfig.json
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\bin\Debug\net8.0\Bubble_Sort.dll
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\bin\Debug\net8.0\Bubble_Sort.pdb
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\obj\Debug\net8.0\Bubble_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\obj\Debug\net8.0\Bubble_Sort.AssemblyInfoInputs.cache
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\obj\Debug\net8.0\Bubble_Sort.AssemblyInfo.cs
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\obj\Debug\net8.0\Bubble_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\obj\Debug\net8.0\Bubble_Sort.dll
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\obj\Debug\net8.0\refint\Bubble_Sort.dll
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\obj\Debug\net8.0\Bubble_Sort.pdb
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\obj\Debug\net8.0\Bubble_Sort.genruntimeconfig.cache
+C:\Users\Cansu Teymur\source\repos\Bubble_Sort\Bubble_Sort\obj\Debug\net8.0\ref\Bubble_Sort.dll
