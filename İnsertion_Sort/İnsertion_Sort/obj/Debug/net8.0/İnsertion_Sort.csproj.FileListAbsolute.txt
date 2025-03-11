@@ -1,0 +1,14 @@
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\bin\Debug\net8.0\İnsertion_Sort.exe
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\bin\Debug\net8.0\İnsertion_Sort.deps.json
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\bin\Debug\net8.0\İnsertion_Sort.runtimeconfig.json
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\bin\Debug\net8.0\İnsertion_Sort.dll
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\bin\Debug\net8.0\İnsertion_Sort.pdb
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\obj\Debug\net8.0\İnsertion_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\obj\Debug\net8.0\İnsertion_Sort.AssemblyInfoInputs.cache
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\obj\Debug\net8.0\İnsertion_Sort.AssemblyInfo.cs
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\obj\Debug\net8.0\İnsertion_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\obj\Debug\net8.0\İnsertion_Sort.dll
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\obj\Debug\net8.0\refint\İnsertion_Sort.dll
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\obj\Debug\net8.0\İnsertion_Sort.pdb
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\obj\Debug\net8.0\İnsertion_Sort.genruntimeconfig.cache
+C:\Users\Cansu Teymur\source\repos\İnsertion_Sort\İnsertion_Sort\obj\Debug\net8.0\ref\İnsertion_Sort.dll
