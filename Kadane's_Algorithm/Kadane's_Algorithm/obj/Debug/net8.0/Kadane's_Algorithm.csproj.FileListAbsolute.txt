@@ -1,0 +1,14 @@
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\bin\Debug\net8.0\Kadane's_Algorithm.exe
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\bin\Debug\net8.0\Kadane's_Algorithm.deps.json
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\bin\Debug\net8.0\Kadane's_Algorithm.runtimeconfig.json
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\bin\Debug\net8.0\Kadane's_Algorithm.dll
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\bin\Debug\net8.0\Kadane's_Algorithm.pdb
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\obj\Debug\net8.0\Kadane's_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\obj\Debug\net8.0\Kadane's_Algorithm.AssemblyInfoInputs.cache
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\obj\Debug\net8.0\Kadane's_Algorithm.AssemblyInfo.cs
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\obj\Debug\net8.0\Kadane's_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\obj\Debug\net8.0\Kadane's_Algorithm.dll
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\obj\Debug\net8.0\refint\Kadane's_Algorithm.dll
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\obj\Debug\net8.0\Kadane's_Algorithm.pdb
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\obj\Debug\net8.0\Kadane's_Algorithm.genruntimeconfig.cache
+C:\Users\Cansu Teymur\source\repos\Kadane's_Algorithm\Kadane's_Algorithm\obj\Debug\net8.0\ref\Kadane's_Algorithm.dll
