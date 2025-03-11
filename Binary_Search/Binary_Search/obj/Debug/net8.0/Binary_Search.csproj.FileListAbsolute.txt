@@ -1,0 +1,14 @@
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\bin\Debug\net8.0\Binary_Search.exe
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\bin\Debug\net8.0\Binary_Search.deps.json
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\bin\Debug\net8.0\Binary_Search.runtimeconfig.json
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\bin\Debug\net8.0\Binary_Search.dll
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\bin\Debug\net8.0\Binary_Search.pdb
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.AssemblyInfoInputs.cache
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.AssemblyInfo.cs
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.csproj.CoreCompileInputs.cache
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.dll
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\obj\Debug\net8.0\refint\Binary_Search.dll
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.pdb
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\obj\Debug\net8.0\Binary_Search.genruntimeconfig.cache
+C:\Users\Cansu Teymur\source\repos\Binary_Search\Binary_Search\obj\Debug\net8.0\ref\Binary_Search.dll
