@@ -1,0 +1,14 @@
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\bin\Debug\net8.0\Dizi_İslemleri.exe
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\bin\Debug\net8.0\Dizi_İslemleri.deps.json
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\bin\Debug\net8.0\Dizi_İslemleri.runtimeconfig.json
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\bin\Debug\net8.0\Dizi_İslemleri.dll
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\bin\Debug\net8.0\Dizi_İslemleri.pdb
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\obj\Debug\net8.0\Dizi_İslemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\obj\Debug\net8.0\Dizi_İslemleri.AssemblyInfoInputs.cache
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\obj\Debug\net8.0\Dizi_İslemleri.AssemblyInfo.cs
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\obj\Debug\net8.0\Dizi_İslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\obj\Debug\net8.0\Dizi_İslemleri.dll
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\obj\Debug\net8.0\refint\Dizi_İslemleri.dll
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\obj\Debug\net8.0\Dizi_İslemleri.pdb
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\obj\Debug\net8.0\Dizi_İslemleri.genruntimeconfig.cache
+C:\Users\Cansu Teymur\source\repos\Dizi_İslemleri\Dizi_İslemleri\obj\Debug\net8.0\ref\Dizi_İslemleri.dll
